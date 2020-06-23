@@ -1,6 +1,6 @@
 ### Who we are
 
-The Biology-AI reading group discusses papers at the intersection of biology and AI. This includes a broad range of biology disciplines (ecology, evolutionary biolgy, physiology, conservation biology, bioinformatics, genomics, metagenomics, etc) and machine learning methods. Our scope does not include medical or neuroscience related papers (see: [Medical reading group] (https://github.com/ieee8023/medical-reading-group) and [Neural-AI reading group] (https://sites.google.com/view/neural-ai/home?authuser=0)).
+The Biology-AI reading group discusses papers at the intersection of biology and AI. This includes a broad range of biology disciplines (ecology, evolutionary biolgy, physiology, conservation biology, bioinformatics, genomics, metagenomics, etc) and machine learning methods. Our scope does not include medical or neuroscience related papers (see: [Medical reading group](https://github.com/ieee8023/medical-reading-group) and [Neural-AI reading group](https://sites.google.com/view/neural-ai/home?authuser=0)).
 
 ### When and how we meet
 
@@ -39,4 +39,3 @@ Following the presentation there will be two phases of discussion:
 
 Please contact Natasha Dudek (natasha@dudek.org)
 
-[GitHub](http://github.com)
