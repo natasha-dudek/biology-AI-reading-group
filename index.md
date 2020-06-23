@@ -32,13 +32,14 @@ Following the presentation there will be two phases of discussion:
   - A novel application of machine learning within the domain of biology
   - Brand new biological datasets or data processing techniques that are expected to have a significant impact on machine learning applications. 
 
-2. Please do not choose a medical AI or neuroscience paper for this reading group. As an example of a guideline for the biology vs. medicine distinction, you should consider whether is the paper applying a technique to a clinical use case.
+
+2. Please do not choose a medical AI or neuroscience paper for this reading group. As an example of a guideline for the biology vs. medicine distinction, you should consider whether is the paper applying a technique to a clinical use case vs contributing to general biological science or a distinct field.
 
 3. In some cases it may be helpful to send along a second, supporting paper or a resource that *briefly* explains the biology behind your system. 
 
 4. If your paper goes into excrutiating technical details about the biology of a system, there is a very good chance that reading group attendees will not understand it and/or will not read it and/or will not show up to your presentation. It is probably best to avoid extremely niche papers, even though they may be super cool. 
 
-5. If you're not sure whether a given paper is a good candidate for this reading group, please feel welcome to send Natasha an email :)
+5. If you're not sure whether a given paper is a good candidate for this reading group, please don't hesitate to send me (Natasha) an email!
 
 ### For more information
 
