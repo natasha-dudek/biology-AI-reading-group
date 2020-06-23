@@ -1,10 +1,8 @@
-## Biology + AI Reading Group
+## Focus
 
-You can use the [editor on GitHub](https://github.com/natasha-dudek/biology-AI-reading-group/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Biology-AI reading group meets on a bi-weekly basis to discuss papers at the intersection of biology and AI. This includes a broad range of biology fields and machine learning methods. Our scope does not include medical or neuroscience related papers (see: [Medical reading group] (https://github.com/ieee8023/medical-reading-group) and [Neural-AI reading group] (https://sites.google.com/view/neural-ai/home?authuser=0)). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### How to choose a paper
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
