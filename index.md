@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Biology + AI Reading Group
 
 You can use the [editor on GitHub](https://github.com/natasha-dudek/biology-AI-reading-group/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
