@@ -1,4 +1,4 @@
-### Who we are
+### Reading group focus
 
 The Biology-AI reading group discusses papers at the intersection of biology and AI. This includes a broad range of biology disciplines (ecology, evolutionary biolgy, physiology, conservation biology, bioinformatics, genomics, metagenomics, etc) and machine learning methods. 
 
@@ -32,7 +32,7 @@ Following the presentation there will be two phases of discussion:
   - A novel application of machine learning within the domain of biology
   - Brand new biological datasets or data processing techniques that are expected to have a significant impact on machine learning applications. 
 
-2. Please do not choose a medical AI or neuroscience paper for this reading group. As an example of a guideline for the biology vs. medicine distinction, you should consider whether is the paper applying a technique to a clinical use case (e.g.: using ML to diagnose a disease based on gene expression levels). If so, its medical. In contrast, if the paper focuses on developing a novel, broad-purpose algorithm or gaining a deeper understand of how biological systems work, you're probably in the clear.
+2. Please do not choose a medical AI or neuroscience paper for this reading group. As an example of a guideline for the biology vs. medicine distinction, you should consider whether is the paper applying a technique to a clinical use case.
 
 3. In some cases it may be helpful to send along a second, supporting paper or a resource that *briefly* explains the biology behind your system. 
 
