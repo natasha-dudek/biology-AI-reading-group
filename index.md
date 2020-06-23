@@ -19,7 +19,7 @@ For specific dates please refer to the schedule.
 
 At each meeting a group member will present a paper. **It is critical that all attendees read the paper before the meeting**.
 
-The speaker will prepare a short (10-15 minute) presentation of the paper. **It is extremely important that speakers thoroughly present the biology of their system in sufficient detail such that members of the group with no background in that field of biology can understand their choosen paper.** It is virtually guaranteed that attendees of any given meeting will not all have the same biology background. Presenters should prepare a few (~5) discussion points. Ideally attendees will also come prepared with observations and comments about the paper for discussion.
+The speaker will prepare a short (10-15 minute) presentation of the paper. **It is extremely important that speakers thoroughly explain the biology of their study system in sufficient detail such that members of the group with no background in that field of biology can understand their choosen paper.** Presenters should prepare a few (~5) discussion points. Ideally attendees will also come prepared with observations and comments about the paper for discussion.
 
 Following the presentation there will be two phases of discussion:
 1. We will split up into Zoom breakout rooms for small discussions for ~15-20 minutes.
@@ -36,7 +36,9 @@ Following the presentation there will be two phases of discussion:
 
 3. In some cases it may be helpful to send along a second, supporting paper or a resource that *briefly* explains the biology behind your system. 
 
-4. If you're not sure whether a given paper is a good candidate for this reading group, please feel welcome to send Natasha an email :)
+4. If your paper goes into excrutiating technical details about the biology of a system, there is a very good chance that reading group attendees will not understand it and/or will not read it and/or will not show up to your presentation. It is probably best to avoid extremely niche papers, even though they may be super cool. 
+
+5. If you're not sure whether a given paper is a good candidate for this reading group, please feel welcome to send Natasha an email :)
 
 ### For more information
 
