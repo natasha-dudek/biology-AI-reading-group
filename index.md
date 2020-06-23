@@ -2,6 +2,8 @@
 
 The Biology-AI reading group meets on a bi-weekly basis to discuss papers at the intersection of biology and AI. This includes a broad range of biology fields and machine learning methods. Our scope does not include medical or neuroscience related papers (see: [Medical reading group] (https://github.com/ieee8023/medical-reading-group) and [Neural-AI reading group] (https://sites.google.com/view/neural-ai/home?authuser=0)). 
 
+[test] (https://www.google.com)
+
 ### How to choose a paper
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
