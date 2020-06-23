@@ -25,12 +25,11 @@ Following the presentation there will be two phases of discussion:
 
 ### Guidelines for choosing a paper
 
-1. Keep in mind that your audience is a machine learning crowd. Papers should have content that is exciting from a machine learning perspective and should lead to an interesting discussion on machine learning. This may include:
+1. Keep in mind that your audience is a machine learning crowd. Papers should have content that is exciting from a machine learning perspective and should lead to an interesting discussion on machine learning. This may include:    
   - New algorithms that have been developed specifically with biological applications in mind
   - A novel application of machine learning within the domain of biology
-  - New biological datasets that are available for machine learning applications. 
-  
-  Please avoid papers that do not make novel and/or significant contributions to either the discoverey of new machine learning techniques or new scientific insights  E.g.: there are already countless papers that use algorithm X to classify images of various species (spiders, birds, mushrooms, etc). You should avoid choosing a paper that uses the exact same algorithm X to classify images of rodents for the first time or that somehow increases the performance of algorithm X by 0.00001%. There won't be much for the reading group to discuss. Conversely, if there is a new ML algorithm / technique used or something special about the data / insights produced, then it would be an interesting paper for discussion.
+  - Brand new biological datasets or data processing techniques that are expected to have a significant impact on machine learning applications. 
+  Examples of bad papers to choose: there are numerous papers that use algorithm X to classify images of various taxonomic groups (spiders, birds, mushrooms, etc). A new paper applies algorithm X to rodents for the first time or some group manages to improve the performance of algorithm X on spider classification by 0.000000001%. There won't be much for the reading group to discuss.
 
 2. Please do not choose a medical AI or neuroscience paper for this reading group. There is, of course, some overlap between biology, medicine, and neuroscience. As an example of a guideline for the biology vs. medicine distinction, you should consider whether is the paper applying a technique to a clinical use case. If so, its medical. For example, using ML to diagnose a disease based on gene expression levels is clinical and should not be presented in this reading group. In contrast, using an ML algorithm to gain a deeper understanding of the mechanism behind how gene expression levels in general are regulated is a good candidate for this reading group. If you aren't sure whether a given paper counts as being medicine or neuroscience, please feel welcome to ask :)
 
