@@ -36,7 +36,7 @@ Following the presentation there will be two phases of discussion:
 
 3. In some cases it may be helpful to send along a second, supporting paper or a resource that *briefly* explains the biology behind your system. 
 
-4. If at any point you want a second opinion on whether a given paper is a good candidate, please feel welcome to send Natasha an email :)
+4. If you're not sure whether a given paper is a good candidate for this reading group, please feel welcome to send Natasha an email :)
 
 ### For more information
 
