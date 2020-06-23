@@ -4,7 +4,11 @@ The Biology-AI reading group discusses papers at the intersection of biology and
 
 ### When and how we meet
 
-During Summer 2020 we will be meeting once every two weeks on Tuesdays from 2-3pm via Zoom calls. **Meetings will start at exactly 2pm (not 2:05)** so please be respectful to the speaker and arrive a couple of minutes early, just as you would for an in-person presentation. For specific dates please refer to the schedule.
+During Summer 2020 we will be meeting once every two weeks on Tuesdays from 2-3pm via Zoom calls. 
+
+Please be respectful to the speaker and arrive a couple of minutes early, just as you would for an in-person presentation. **Meetings will start at exactly 2pm (not 2:05)** 
+
+For specific dates please refer to the schedule.
 
 ### To stay up to date on the latest news
 
