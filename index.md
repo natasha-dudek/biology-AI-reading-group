@@ -29,12 +29,12 @@ Following the presentation there will be two phases of discussion:
   - New algorithms that have been developed specifically with biological applications in mind
   - A novel application of machine learning within the domain of biology
   - Brand new biological datasets or data processing techniques that are expected to have a significant impact on machine learning applications. 
-  
-  To give examples of suboptimal papers to choose, let's say there are numerous papers that use algorithm X to classify images of various taxonomic groups (spiders, birds, mushrooms, etc). Please avoid choosing a new paper applies algorithm X to rodents for the first time or a paper where the authors manage to improve the performance of algorithm X on spider classification by 0.000000001%. There won't be much for the reading group to discuss.
 
-2. Please do not choose a medical AI or neuroscience paper for this reading group. As an example of a guideline for the biology vs. medicine distinction, you should consider whether is the paper applying a technique to a clinical use case. If so, its medical. For example, using ML to diagnose a disease based on gene expression levels is clinical and should not be presented in this reading group. In contrast, using an ML algorithm to gain a deeper understanding of the mechanism behind how gene expression levels in general are regulated is a good candidate for this reading group. In some cases it may be hard to determine what a paper counts as, since there is, of course, overlap between biology, medicine, and neuroscience. If you aren't sure whether a given paper is a good candidate for this reading group, please feel welcome to ask :)
+2. Please do not choose a medical AI or neuroscience paper for this reading group. As an example of a guideline for the biology vs. medicine distinction, you should consider whether is the paper applying a technique to a clinical use case (e.g.: using ML to diagnose a disease based on gene expression levels). If so, its medical. In contrast, if the paper focuses on developing a novel, broad-purpose algorithm or gaining a deeper understand of how biological systems work, you're probably in the clear.
 
 3. In some cases it may be helpful to send along a second, supporting paper or a resource that *briefly* explains the biology behind your system. 
+
+4. If at any point you want a second opinion on whether a given paper is a good candidate, please feel welcome to ask :)
 
 ### For more information
 
