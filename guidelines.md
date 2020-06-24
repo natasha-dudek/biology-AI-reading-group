@@ -2,7 +2,7 @@
 title: Guidelines for speakers
 layout: template
 filename: guidelines.md
-permalink: "https://natasha-dudek.github.io/biology-AI-reading-group/guidelines_for_speakers"
+permalink: "https://natasha-dudek.github.io/biology-AI-reading-group/guidelines_for_speakers.md"
 --- 
 
 Thank you for volunteering to present at the Biology-AI reading group (or for considering it)! Below are some tips for how to make your presentation 
