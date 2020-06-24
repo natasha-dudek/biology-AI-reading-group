@@ -21,7 +21,7 @@ You will be presenting to machine learning enthusiasts with varying levels of bi
 
 2. Do not choose a medical AI or neuroscience paper for this reading group. As an example trying to distinguish between biology vs. medicine, you should consider whether is the paper applying a technique to a clinical use case.
 
-3. Avoid extremely niche papers, even though they may be cool to domain experts. If your paper goes into excrutiatingly complicated technical details about the biology of a system, there is a very good chance that reading group attendees will not understand it and/or will not read it and/or will not show up to your presentation. 
+3. Avoid papers that go into excrutiatingly complicated technical details about the biology of a system. For such papers, there is a very good chance that reading group attendees will not understand it and/or will not read it and/or will not show up to your presentation. 
 
 If you're not sure whether a given paper is a good candidate for this reading group, please don't hesitate to send me (Natasha) an email!
 
