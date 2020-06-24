@@ -3,6 +3,7 @@ title: Schedule
 layout: template
 filename: schedule.md
 permalink: "https://natasha-dudek.github.io/biology-AI-reading-group/schedule"
+custom: "https://natasha-dudek.github.io/biology-AI-reading-group/schedule"
 --- 
 
 First Header | Second Header
