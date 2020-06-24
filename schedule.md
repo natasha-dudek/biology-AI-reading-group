@@ -1,7 +1,7 @@
 ---
 title: Schedule
 layout: template
-filename: schedule.html
+filename: schedule.md
 permalink: https://natasha-dudek.github.io/biology-AI-reading-group/schedule.html
 
 --- 
