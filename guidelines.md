@@ -6,7 +6,7 @@ permalink: "https://natasha-dudek.github.io/biology-AI-reading-group/guidelines_
 custom: ["https://natasha-dudek.github.io/biology-AI-reading-group/guidelines_for_speakers"]
 --- 
 
-Thank you for volunteering to present at the Biology-AI reading group (or for considering it)! Below are some tips for how to make your presentation 
+Thank you for volunteering to present at the Biology-AI reading group! Below are some tips for making a great presentation.
 
 ### Know your audience
 
@@ -17,7 +17,7 @@ You will be presenting to machine learning enthusiasts with varying levels of bi
 1. Papers should have content that is exciting from a machine learning perspective. This may include:    
   - New algorithms that have been developed specifically with biological applications in mind
   - A novel application of machine learning within the domain of biology
-  - New biological datasets or data processing techniques that are expected to have a significant impact on machine learning applications. </br>
+  - New biological datasets or data processing techniques that are expected to have a significant impact on machine learning applications </br>
 
 2. Do not choose a medical AI or neuroscience paper for this reading group. As an example trying to distinguish between biology vs. medicine, you should consider whether is the paper applying a technique to a clinical use case.
 
