@@ -10,11 +10,6 @@ During Summer 2020 we will be meeting once every two weeks on Tuesdays from 2-3p
 
 For specific dates please refer to the schedule.
 
-### To stay up to date on the latest news
-
-- Join our Google group for regular reminders about upcoming presentations 
-- Add us to your Google calendar
-
 ### Meeting format
 
 At each meeting a group member will present a paper. **It is critical that all attendees read the paper before the meeting**. Both the presenter and attendees should come prepared with observations and comments about the paper for discussion.
@@ -24,6 +19,11 @@ The speaker will prepare a short (10-15 minute) presentation of the paper.
 Following the presentation there will be two phases of discussion:
 1. We will split up into Zoom breakout rooms for small discussions for ~15-20 minutes.
 2. We will regroup for concluding discussion and remarks.
+
+### To stay up to date on the latest news
+
+- Join our Google group for regular reminders about upcoming presentations 
+- Add us to your Google calendar
 
 ### For more information
 
