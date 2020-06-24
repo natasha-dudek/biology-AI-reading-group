@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 show_downloads: true
-#github:
-#  schedule_url: https://natasha-dudek.github.io/biology-AI-reading-group/schedule
-#  guidelines_url: https://natasha-dudek.github.io/biology-AI-reading-group/guidelines_for_speakers
+github:
+  schedule_url: https://natasha-dudek.github.io/biology-AI-reading-group/schedule
+  guidelines_url: https://natasha-dudek.github.io/biology-AI-reading-group/guidelines_for_speakers
