@@ -27,5 +27,5 @@ Following the presentation there will be two phases of discussion:
 
 ### For more information
 
-Please contact Natasha Dudek (natasha@dudek.org)
+Please contact Natasha Dudek (firstname@lastname.org)
 
