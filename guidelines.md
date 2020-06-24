@@ -26,7 +26,7 @@ If you're not sure whether a given paper is a good candidate for this reading gr
 
 ### Presenting a paper
 
-Presentations should be ~10-15 minutes long. Slides are recommended.
+Presentations should be ~10-15 minutes long. Slides are recommended. If you would like to practice setting up slides for presentation on Zoom, contact me (Natasha) and we can do a dry run before the meeting starts. 
 
 Introduction:
 It is strongly recommended that in addition to summarizing the paper's introduction you add some extra details about the biology of the system for people who aren't necessarily experts in this specific domain of biology. Be sure to clearly outline what the problem is the authors are trying to address with their work since this might not be apparent to domain outsiders.
