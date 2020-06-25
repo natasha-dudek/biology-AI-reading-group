@@ -6,7 +6,7 @@ Our scope does not include medical or neuroscience related papers (see: [Medical
 
 ### When and how we meet
 
-During Summer 2020 we will be meeting once every two weeks on Tuesdays from 2-3pm via Zoom calls. **Please be respectful to the speaker and the other attendees and arrive a couple of minutes early**, just as you would for an in-person presentation. Meetings will begin at 2pm sharp.
+During Summer 2020 we will be meeting once every two weeks on Tuesdays from 2-3 pm via Zoom calls. **Please be respectful to the speaker and the other attendees and arrive a couple of minutes early**, just as you would for an in-person presentation. Meetings will begin at 2 pm sharp.
 
 For specific dates please refer to the schedule.
 
