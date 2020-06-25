@@ -1,5 +1,5 @@
 ---
-layout: template
+layout: cayman
 title: "Schedule"
 permalink: /schedule/
 --- 
