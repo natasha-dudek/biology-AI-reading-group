@@ -20,10 +20,10 @@ Following the presentation there will be two phases of discussion:
 1. We will split up into Zoom breakout rooms for small discussions for ~15-20 minutes.
 2. We will regroup for concluding discussion and remarks.
 
-### To stay up to date on the latest news
+### Staying up to date 
 
-- Join our Google group for regular reminders about upcoming presentations 
-- Add us to your Google calendar
+- [Join our Google group](https://groups.google.com/forum/#!forum/biology-ai-reading-group) for reminders about upcoming presentations 
+- Add us to your Google calendar (coming soon)
 
 ### For more information
 
