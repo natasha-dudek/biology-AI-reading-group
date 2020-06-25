@@ -17,7 +17,7 @@ You will be presenting to machine learning enthusiasts with varying levels of bi
   - A novel application of machine learning within the domain of biology
   - New biological datasets or data processing techniques that are expected to have a significant impact on machine learning applications <a/>
 <br />
-2. Avoid choosing a medical or neuroscience -related AI paper for this reading group, as specific reading groups already exist for those fields. As an example trying to distinguish between biology vs. medicine, you should consider whether is the paper applying a technique to a clinical use case.
+2. Avoid choosing a medical or neuroscience related AI paper for this reading group, as specific reading groups already exist for those fields. As an example trying to distinguish between biology vs. medicine, you should consider whether is the paper applying a technique to a clinical use case.
 
 3. Avoid papers that go into excrutiatingly complicated technical details about the biology of a system. For such papers, there is a very good chance that reading group attendees will not understand it and/or will not read it and/or will not show up to your presentation. 
 
