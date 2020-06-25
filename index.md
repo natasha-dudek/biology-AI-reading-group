@@ -22,7 +22,7 @@ Following the presentation there will be two phases of discussion:
 
 ### Staying up to date 
 
-- [Join our Google group](https://groups.google.com/forum/#!forum/biology-ai-reading-group) for reminders about upcoming presentations 
+- [Join our Google group](https://groups.google.com/forum/#!forum/biology-ai-reading-group) for reminders about upcoming presentations. To be accepted, you must add a short (1 sentence) note about who you are to the join request.
 - Add us to your Google calendar (coming soon)
 
 ### For more information
