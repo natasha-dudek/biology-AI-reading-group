@@ -1,7 +1,8 @@
 ---
-layout: cayman
+layout: default
 title: "Schedule"
 permalink: /schedule/
+theme: jekyll-theme-cayman
 --- 
 
 Date | Speaker | Paper
