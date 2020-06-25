@@ -1,6 +1,7 @@
 ---
-layout: template
 title: "Schedule"
+layout: template
+filename: schedule.md
 permalink: /schedule/
 theme: jekyll-theme-cayman
 --- 
