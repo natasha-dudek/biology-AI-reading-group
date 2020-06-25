@@ -1,6 +1,6 @@
 ---
 title: "Guidelines for speakers"
-layout: template
+theme: jekyll-theme-cayman
 permalink: /guidelines_for_speakers/
 --- 
 
