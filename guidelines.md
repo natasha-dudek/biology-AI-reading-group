@@ -4,6 +4,8 @@ theme: jekyll-theme-cayman
 permalink: /guidelines_for_speakers/
 --- 
 
+11:30
+
 Thank you for volunteering to present at the Biology-AI reading group! Below are some tips for making a great presentation.
 
 ### Know your audience
