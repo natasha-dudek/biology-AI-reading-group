@@ -1,13 +1,11 @@
 ---
 title: "Schedule"
-#layout: template
 theme: jekyll-theme-cayman
 filename: schedule.md
 permalink: /schedule/
-theme: jekyll-theme-cayman
 --- 
 
-11:27
+11:28
 
 Date | Speaker | Paper
 ------------ | ------------- | -------------
