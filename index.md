@@ -6,7 +6,7 @@ Our scope does not include medical or neuroscience related papers (see: [Medical
 
 ### When and how we meet
 
-During Summer 2020 we will be meeting once every two weeks on Tuesdays from 2-3 pm via Zoom calls. **Please be respectful to the speaker and the other attendees and arrive a couple of minutes early**, just as you would for an in-person presentation. Meetings will begin at 2 pm sharp.
+During Summer 2020 we will be meeting once every two weeks on Tuesdays from 2-3 pm via Google Meet. **Please be respectful to the speaker and the other attendees and arrive a couple of minutes early**, just as you would for an in-person presentation. Meetings will begin at 2 pm sharp.
 
 For specific dates please refer to the schedule.
 
@@ -17,7 +17,7 @@ At each meeting a group member will present a paper. **It is critical that all a
 The speaker will prepare a short (10-15 minute) presentation of the paper. 
 
 Following the presentation there will be two phases of discussion:
-1. We will split up into Zoom breakout rooms for small discussions for ~15-20 minutes.
+1. We will split up into breakout rooms for small discussions for ~15-20 minutes.
 2. We will regroup for concluding discussion and remarks.
 
 ### Staying up to date 
