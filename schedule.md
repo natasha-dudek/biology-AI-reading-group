@@ -5,7 +5,7 @@ filename: schedule.md
 permalink: /schedule/
 --- 
 
-Date | Speaker | Paper
+Date | Speaker | Paper | Link
 ------------ | ------------- | -------------
-TBA | TBA | TBA
+07/07/2020 | Natasha Dudek | Predicting reservoir hosts and arthropod vectors from evolutionary signatures in RNA virus genomes | [Full text](https://science.sciencemag.org/content/362/6414/577)
 24/06/2020 | N/A | Initial meeting
