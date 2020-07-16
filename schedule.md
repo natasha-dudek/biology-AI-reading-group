@@ -8,7 +8,7 @@ permalink: /schedule/
 We're looking for speakers! Please contact Natasha if you'd like to present a paper.
 
 Date | Speaker | Paper 
------------- | ------------- | -------------
+------------ | ------------- | :-----------------------------:
 01/09/2020 | TBA | TBA
 18/08/2020 | Elliot Layne | TBA
 04/08/2020 | Zichao Yan | TBA
