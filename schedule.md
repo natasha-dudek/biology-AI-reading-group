@@ -8,7 +8,7 @@ permalink: /schedule/
 We're looking for speakers! Please contact Natasha if you'd like to present a paper.
 
 Date | Speaker | Paper 
------------- | ------------- | ----------------------------------------
+------------ | -------------------------- | ------------------------------------------------------------------
 01/09/2020 | TBA | TBA
 18/08/2020 | Elliot Layne | [Supervised learning on phylogenetically distributed data](https://drive.google.com/file/d/1FcZsD5vUQg36vhFX9Jo9sGilXtZMir-z/view?usp=sharing)
 04/08/2020 | Zichao Yan | [Generative models for graph-based protein design](https://papers.nips.cc/paper/9711-generative-models-for-graph-based-protein-design.pdf)
