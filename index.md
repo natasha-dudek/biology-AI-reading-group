@@ -18,8 +18,7 @@ At each meeting a group member will present a paper (~15-20 min). Following the 
 
 ### Staying up to date 
 
-- [Join our Google group](https://groups.google.com/forum/#!forum/biology-ai-reading-group) for reminders about upcoming presentations. To be accepted, you must add a short (1 sentence) note about who you are to the join request.
-- [Add us to your Google calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDMzbTQ4Mmw3ajlzdDY2cnRsMnA3Mm1ja2dfMjAyMDA4MThUMTgwMDAwWiBiaW9sb2d5LmFpLnJlYWRpbmcuZ3JvdXBAbQ&tmsrc=biology.ai.reading.group%40gmail.com&scp=ALL)
+[Join our Google group](https://groups.google.com/forum/#!forum/biology-ai-reading-group) for reminders about upcoming presentations. To be accepted, you must add a short (1 sentence) note about who you are to the join request.
 
 ### For more information
 
