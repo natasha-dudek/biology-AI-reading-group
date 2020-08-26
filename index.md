@@ -1,6 +1,6 @@
 ### Description
 
-The Biology + AI reading group discusses papers at the intersection of biology and AI. This includes a broad range of biology disciplines (bioinformatics, genomics, metagenomics, ecology, evolutionary biolgy, physiology, conservation biology, etc) and machine learning methods. 
+The Biology + AI reading group discusses papers at the intersection of biology and AI. This includes a broad range of biology disciplines (bioinformatics, genomics, ecology, evolutionary biology, physiology, conservation biology, etc) and machine learning methods. 
 
 Our scope does not include medical or neuroscience related papers (see: [Medical reading group](https://github.com/ieee8023/medical-reading-group) and [Neural-AI reading group](https://sites.google.com/view/neural-ai/home?authuser=0)).
 
@@ -12,7 +12,8 @@ For specific dates please refer to the schedule.
 
 ### Meeting format
 
-At each meeting a group member will present a paper (~15-20 min). Following the presentation there will be a discussion.
+Option A) A group member will present a paper (~20 min). Following the presentation there will be a discussion.
+Option B) A speaker will present their own work to the group (length flexible, max. 45 minutes). Following the presentation there will be a discussion.
 
 **It is critical that all attendees read the paper before the meeting**. Both the presenter and attendees should come prepared with observations and comments about the paper for discussion.
 
