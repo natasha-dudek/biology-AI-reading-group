@@ -14,7 +14,7 @@ For specific dates please refer to the schedule.
 
 Option A) A group member will present a paper (~20 min). Following the presentation there will be a discussion.
 
-Option B) A speaker will present their own work to the group (length flexible, max. 45 minutes). Following the presentation there will be a discussion.
+Option B) A speaker will present their own work to the group (length flexible, max. 50 minutes). Following the presentation there will be a discussion.
 
 **It is critical that all attendees read the paper before the meeting**. Both the presenter and attendees should come prepared with observations and comments about the paper for discussion.
 
