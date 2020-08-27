@@ -1,6 +1,6 @@
 ### Description
 
-The Mila Biology + AI reading group discusses papers at the intersection of biology and AI. This includes a broad range of biology disciplines (bioinformatics, genomics, ecology, evolutionary biology, physiology, conservation biology, etc) and machine learning methods. 
+The Mila Biology + AI reading group discusses papers at the intersection of biology and AI. While one of the key themes of the reading group is machine learning applications in bioinformatics, we welcome papers from all branches of biology, including ecology, evolutionary biology, conservation biology, physiology, etc.
 
 Our scope does not include medical or neuroscience related papers (see: [Medical reading group](https://github.com/ieee8023/medical-reading-group) and [Neural-AI reading group](https://sites.google.com/view/neural-ai/home?authuser=0)).
 
