@@ -22,13 +22,13 @@ You will be presenting to machine learning enthusiasts with varying levels of bi
 
 3. Avoid papers that go into excrutiatingly complicated technical details about the biology of a system. For such papers, there is a very good chance that reading group attendees will not understand it and/or will not read it and/or will not show up to your presentation. 
 
-If you're not sure whether a given paper is a good candidate for this reading group, please don't hesitate to send Natasha an email!
+If you're not sure whether a given paper is a good candidate for this reading group, please send me (Natasha) an email.
 
 ### Presenting a paper
 
-- If you are presenting a paper from the literature, presentations should be ~20 minutes long. Discussion will follow.  
-- If you are presenting your own work, the format is flexible but you should not exceed 45-50 minutes. This will allow for a questions/discussion period at the end.
-- In both cases, please let the group know whether you will accept questions as the talk progresses or if all questions should be kept until the end.
+- If you are presenting a paper from the literature: presentations should be ~20 minutes long. Discussion will follow.  
+- If you are presenting your own work: the format is flexible but you should not exceed 50 minutes. This will allow for a Q&A period at the end.
+- Please let the group know whether you will accept questions as the talk progresses or if all questions should be kept until the end.
 - If you would like to practice setting up slides for presentation prior to the meeting (recommended), contact me and we can do a dry run a few minutes before the meeting starts. 
 
 Introduction: <br />
