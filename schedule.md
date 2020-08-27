@@ -9,6 +9,8 @@ We're looking for speakers! Please contact Natasha if you'd like to present a pa
 
 Date | Speaker | Paper 
 ------------ | -------------------------- | ------------------------------------------------------------------
+15/10/2020 | Degui Zhi | [Gene2vec: distributed representation of genes based on co-expression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6360648/pdf/12864_2018_Article_5370.pdf)
+01/10/2020 | TBA | TBA
 17/09/2020 | TBA | TBA
 03/09/2020 | N/A | Fall Social 
 18/08/2020 | Elliot Layne | [Supervised learning on phylogenetically distributed data](https://drive.google.com/file/d/1FcZsD5vUQg36vhFX9Jo9sGilXtZMir-z/view?usp=sharing)
