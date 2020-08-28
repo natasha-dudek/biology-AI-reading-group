@@ -9,6 +9,7 @@ We're looking for speakers! Please contact Natasha if you'd like to present a pa
 
 Date | Speaker | Paper 
 ------------ | -------------------------- | ------------------------------------------------------------------
+29/10/2020 | TBA | TBA
 15/10/2020 | Degui Zhi | [Gene2vec: distributed representation of genes based on co-expression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6360648/)
 01/10/2020 | TBA | TBA
 17/09/2020 | John San Soucie | TBA
