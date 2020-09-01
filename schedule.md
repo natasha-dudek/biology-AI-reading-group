@@ -8,7 +8,7 @@ permalink: /schedule/
 We're looking for speakers! Please contact Natasha if you'd like to present a paper.
 
 Date | Speaker | Paper | Notes
------------- | -------------------------- | ------------------------------------------------------------------ | -----------------------
+------------ | -------------------------- | ------------------------------------------------------------------ | ---------------------------------
 29/10/2020 | TBA | TBA | 
 15/10/2020 | Degui Zhi | [Gene2vec: distributed representation of genes based on co-expression](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5370-x) | 
 01/10/2020 | Nils Strodthoff | [UDSMProt: universal deep sequence models for protein classification](https://academic.oup.com/bioinformatics/article/36/8/2401/5698270) | Special time: 11 am EST 
