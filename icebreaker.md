@@ -7,11 +7,11 @@ permalink: /trivia_game/
 ## Trivia game for the Fall social
 
 ### Goal 
-Answer as many questions as possible. Get the most correct answers and you will win a prize!
+Answer as many CS/biology/Montreal-themed questions as possible. Get the most correct answers and you will win a prize! <br />
 *Note: to be eligible to win the prize, you must provide an address on the island of Montreal where it can be dropped off in the next week.*
 
 ### How it works
-1. Download a PDF with the trivia questions. You must choose the PDF based on the first letter of your last name (below).
+1. Download a PDF with the trivia questions. There are several different versions. You must choose your version based on the first letter of your last name (below).
 2. Fill in the questions either based on your own knowledge or by asking others at the meeting for help. No internet searches allowed. If you don't understand one of the questions, ask Natasha for clarification.
 3. When the meeting is over, send your filled out trivia sheet to Natasha for scoring (firstname@lastname.org)
 
