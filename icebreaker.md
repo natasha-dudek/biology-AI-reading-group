@@ -8,6 +8,7 @@ permalink: /trivia_game/
 
 ### Goal 
 Answer as many CS/biology/Montreal-themed questions as possible. The person with the most correct answers will win a prize! <br />
+
 *Note: to be eligible to win the prize, you must provide an address on the island of Montreal where it can be dropped off in the next week.*
 
 ### How it works
