@@ -15,7 +15,7 @@ Answer as many questions as possible. Get the most correct answers and you will 
 2. Fill in the questions either based on your own knowledge or by asking others at the meeting for help. No internet searches allowed. 
 3. When the meeting is over, send your filled out trivia sheet to Natasha for scoring (firstname@lastname.org)
 
-## Get your trivia sheet
+### Get your trivia sheet
 Last name starts with: <br />
 A-C <br />
 D-F <br />
