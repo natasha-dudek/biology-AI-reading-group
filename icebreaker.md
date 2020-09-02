@@ -19,11 +19,11 @@ Answer as many CS/biology/Montreal-themed questions as possible. The person with
 ### Get your trivia sheet
 Last name starts with: <br />
 [A-C](https://drive.google.com/file/d/1wqiu1afTqSWENByuTLwiq0WKNWAbymSW/view?usp=sharing) <br />
-D-F <br />
-G-I <br />
-J-L <br />
-M-O <br />
-P-R <br />
-S-U <br />
-V-X <br />
-Y-Z <br />
+[D-F](https://drive.google.com/file/d/1ixxlggg7RS1LrDPPxZ0BspdsGkdZIJA5/view?usp=sharing) <br />
+[G-I](https://drive.google.com/file/d/1K8rsYkqc1D_ADb6WZYpyn2Ei0jsqQmzt/view?usp=sharing) <br />
+[J-L](https://drive.google.com/file/d/1t1gM5ySbWkFad-wxRE7TpgVaIS7hIQNd/view?usp=sharing) <br />
+[M-O](https://drive.google.com/file/d/1_tRNQgear-IhV1lNp4s_ePzZOI6Ux0cL/view?usp=sharing) <br />
+[P-R](https://drive.google.com/file/d/1Njan5DaNB9xVtzUOkmIeiLC8l44lrbk_/view?usp=sharing) <br />
+[S-U](https://drive.google.com/file/d/1lfxMM9NunYEMe5zDHHyrCjEDGUTSDHRZ/view?usp=sharing) <br />
+[V-X](https://drive.google.com/file/d/1VduKsXreBwEY20Mi9TGM7OTQyYUzPv9H/view?usp=sharing) <br />
+[Y-Z](https://drive.google.com/file/d/1I9Eu_WH3wXN46Bhtnf_LAbySKlLgFb1g/view?usp=sharing) <br />
