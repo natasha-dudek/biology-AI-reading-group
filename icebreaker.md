@@ -18,7 +18,7 @@ Answer as many CS/biology/Montreal-themed questions as possible. The person with
 
 ### Get your trivia sheet
 Last name starts with: <br />
-A-C <br />
+[A-C](https://drive.google.com/file/d/1wqiu1afTqSWENByuTLwiq0WKNWAbymSW/view?usp=sharing) <br />
 D-F <br />
 G-I <br />
 J-L <br />
