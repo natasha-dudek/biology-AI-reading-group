@@ -4,6 +4,8 @@ theme: jekyll-theme-cayman
 permalink: /trivia_game/
 --- 
 
+## Information about the Fall Social trivia game
+
 **Goal:** 
 Answer as many questions as possible. Get the most correct answers and you will win a prize!
 *Note: to be eligible to win the prize, you must have an address on the island of Montreal where it can be dropped off.*
