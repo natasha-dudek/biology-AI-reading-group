@@ -9,7 +9,7 @@ permalink: /trivia_game/
 ### Goal 
 Answer as many CS/biology/Montreal-themed questions as possible. The person with the most correct answers will win a prize! <br />
 
-*Note: to be eligible to win the prize, you must provide an address on the island of Montreal where it can be dropped off in the next week.*
+*Note: to be eligible to win the prize, you must provide an address on the island of Montreal where it can be dropped off in the next week. If you are not eligible to win the prize, you are still welcome to play for fun but please do not submit your sheet for scoring at the end.*
 
 ### How it works
 1. Download a PDF with the trivia questions. There are several different versions. You must choose your version based on the first letter of your last name (below). Contestants playing with the wrong version will be disqualified.
