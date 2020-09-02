@@ -8,7 +8,7 @@ permalink: /trivia_game/
 
 ### Goal 
 Answer as many questions as possible. Get the most correct answers and you will win a prize!
-*Note: to be eligible to win the prize, you must have an address on the island of Montreal where it can be dropped off in the next week.*
+*Note: to be eligible to win the prize, you must provide an address on the island of Montreal where it can be dropped off in the next week.*
 
 ### How it works
 1. Download a PDF with the trivia questions. You must choose the PDF based on the first letter of your last name (below).
