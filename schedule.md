@@ -10,8 +10,8 @@ We're looking for speakers! Please contact Natasha if you'd like to present a pa
 Date | Speaker | Paper | Notes
 ------------ | -------------------------- | ------------------------------------------------------------------ | ---------------------------------
 26/11/2020 | Cen Wan | [Protein function prediction is improved by creating synthetic feature samples with generative adversarial networks](https://www.nature.com/articles/s42256-020-0222-1) | This meeting will be at 11 am EST 
-12/11/2020 | Alexander Rives | [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.biorxiv.org/content/10.1101/622803v3) | 
-29/10/2020 | TBA | TBA | 
+12/11/2020 | TBA | TBA | 
+29/10/2020 | Alexander Rives | [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.biorxiv.org/content/10.1101/622803v3) | 
 15/10/2020 | Degui Zhi | [Gene2vec: distributed representation of genes based on co-expression](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5370-x) | 
 01/10/2020 | Nils Strodthoff | [UDSMProt: universal deep sequence models for protein classification](https://academic.oup.com/bioinformatics/article/36/8/2401/5698270) | This meeting will be at 11 am EST 
 17/09/2020 | John San Soucie | Required: [Gaussian-Dirichlet Random Fields for Inference over High Dimensional Categorical Observations](https://arxiv.org/pdf/2003.12120.pdf) <br/> ---------------------------------------- <br/> Optional: [Learning Seasonal Phytoplankton Communities with Topic Models](https://arxiv.org/pdf/1711.09013.pdf) <br/> Optional: [Phytoplankton Hotspot Prediction With an Unsupervised Spatial Community Model](https://arxiv.org/pdf/1703.07309.pdf) | 
