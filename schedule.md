@@ -9,7 +9,7 @@ We're looking for speakers! Please contact Natasha if you'd like to present a pa
 
 Date | Speaker | Paper | Notes
 ------------ | -------------------------- | ------------------------------------------------------------------ | ---------------------------------
-Dec 2020 | N/A | No meetings because NeurIPS, exams, holidays | Check out the Ecology + ML session at the NeurIPS [AI for Earth Sciences Workshop](https://ai4earthscience.github.io/neurips-2020-workshop/) on Dec 12
+ --/12/2020 | N/A | No meetings because NeurIPS, exams, holidays | Check out the Ecology + ML session at the NeurIPS [AI for Earth Sciences Workshop](https://ai4earthscience.github.io/neurips-2020-workshop/) on Dec 12
 26/11/2020 | Cen Wan | [Protein function prediction is improved by creating synthetic feature samples with generative adversarial networks](https://www.nature.com/articles/s42256-020-0222-1) | This meeting will be at 11 am EST 
 12/11/2020 | TBA | TBA | 
 29/10/2020 | Alexander Rives | [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.biorxiv.org/content/10.1101/622803v3) | 
