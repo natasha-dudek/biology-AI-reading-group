@@ -10,7 +10,7 @@ We're looking for speakers! Please contact Natasha if you'd like to present a pa
 Date | Speaker | Paper | Notes
 ------------ | -------------------------- | ------------------------------------------------------------------ | ---------------------------------
  --/12/2020 | N/A | No meetings because NeurIPS, exams, holidays | Check out the Ecology + ML session at the NeurIPS [AI for Earth Sciences Workshop](https://ai4earthscience.github.io/neurips-2020-workshop/) on Dec 12
-26/11/2020 | Cen Wan | [Protein function prediction is improved by creating synthetic feature samples with generative adversarial networks](https://www.nature.com/articles/s42256-020-0222-1) | This meeting will be at 11 am EST 
+26/11/2020 | Cen Wan | [Protein function prediction is improved by creating synthetic feature samples with generative adversarial networks](https://www.nature.com/articles/s42256-020-0222-1.epdf?sharing_token=lG_PBrvOwQ2SI9IDU73TndRgN0jAjWel9jnR3ZoTv0MIBskH3rOI0KaWS1NpANnb_oIfm5ku7g6_8BZRzUVfRxctZzveoI3gWB0Qih0XjVgeBebaiYhJi5IGzE6bZaaxeLIw6USDQrmWbtrVI_WSnH9OIOVGXGVWKnXsXwDyYN0%3D) | This meeting will be at 11 am EST 
 12/11/2020 | Hector Garcia Martin | [A machine learning Automated Recommendation Tool for synthetic biology](https://www.nature.com/articles/s41467-020-18008-4) | 
 29/10/2020 | Alexander Rives | [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.biorxiv.org/content/10.1101/622803v3) | 
 15/10/2020 | Degui Zhi | [Gene2vec: distributed representation of genes based on co-expression](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5370-x) | 
