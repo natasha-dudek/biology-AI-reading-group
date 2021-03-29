@@ -8,7 +8,7 @@ permalink: /schedule/
 We're looking for speakers! Please contact Natasha if you'd like to present a paper.
 
 Date | Speaker | Affiliation | Paper | Notes
------------- | -------------------------- | ------------------------------------------------------------------ | ---------------------------------
+------------ | -------------------------- | -------------------------- | ------------------------------------------------------------------ | ---------------------------------
 21/04/2021 | Guy Wolf | Mila, UdeM | TBA | 
 07/04/2021 | Molecular biology tutorial + meet each other | N/A | N/A |  N/A 
  --/12/2020 | N/A | N/A | N/A | No meetings because NeurIPS, exams, holidays | Check out the Ecology + ML session at the NeurIPS [AI for Earth Sciences Workshop](https://ai4earthscience.github.io/neurips-2020-workshop/) on Dec 12
