@@ -22,7 +22,8 @@ Option B) A speaker will present their own work to the group (length flexible, m
 
 [Join our Google group](https://groups.google.com/forum/#!forum/biology-ai-reading-group) for reminders about upcoming presentations. To be accepted, you must add a short note (1-2 sentences) about who you are to the join request.
 
-### For more information
+### Organizers 
 
-Please contact Natasha Dudek (firstname@lastname.org)
+Matt Scicluna 
+Natasha Dudek
 
