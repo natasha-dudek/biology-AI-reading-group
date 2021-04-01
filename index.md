@@ -25,5 +25,6 @@ Option B) A speaker will present their own work to the group (length flexible, m
 ### Organizers 
 
 Matt Scicluna 
+
 Natasha Dudek
 
