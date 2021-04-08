@@ -9,8 +9,8 @@ We're looking for speakers! Please contact Natasha if you'd like to present a pa
 
 Date | Speaker | Affiliation | Paper | Notes
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
-21/04/2021 | Guy Wolf | Mila, UdeM | Geometry-based Data Exploration |  N/A 
-07/04/2021 | Natasha Dudek | Mila, McGill | Molecular biology tutorial |  N/A 
+21/04/2021 | Guy Wolf | Mila, UdeM | Geometry-based data Exploration |  N/A 
+07/04/2021 | Natasha Dudek | Mila, McGill | CRISPR genome editing tutorial |  N/A 
  --/12/2020 | N/A | N/A | No meetings because NeurIPS, exams, holidays | Check out the Ecology + ML session at the NeurIPS [AI for Earth Sciences Workshop](https://ai4earthscience.github.io/neurips-2020-workshop/) on Dec 12
 26/11/2020 | Cen Wan | Birkbeck, University of London | [Protein function prediction is improved by creating synthetic feature samples with generative adversarial networks](https://www.nature.com/articles/s42256-020-0222-1.epdf?sharing_token=lG_PBrvOwQ2SI9IDU73TndRgN0jAjWel9jnR3ZoTv0MIBskH3rOI0KaWS1NpANnb_oIfm5ku7g6_8BZRzUVfRxctZzveoI3gWB0Qih0XjVgeBebaiYhJi5IGzE6bZaaxeLIw6USDQrmWbtrVI_WSnH9OIOVGXGVWKnXsXwDyYN0%3D) | This meeting will be at 11 am EST 
 12/11/2020 | Hector Garcia Martin | Lawrence Berkeley National Lab | [A machine learning Automated Recommendation Tool for synthetic biology](https://www.nature.com/articles/s41467-020-18008-4) | 
