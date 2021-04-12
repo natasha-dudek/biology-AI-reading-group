@@ -19,5 +19,5 @@ Presenter instructions
 - Research at any stage is welcome, from recently published work to half-baked ideas
 - Presentations should not substantially exceed 5 minutes. There is no limit on how short they should be (e.g.: if you just want to put an idea out there)
 - Slides are welcome but not required
-- To ensure that timing of the event works out, please confirm your participation with Natasha Dudek (firstname@lastname.org) by May 4th at the latest
+- To ensure that timing of the event works out, please confirm your participation with Natasha Dudek (firstname @ lastname .org) by May 4th at the latest
 
