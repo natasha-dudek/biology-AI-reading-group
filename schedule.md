@@ -9,7 +9,7 @@ We're looking for speakers! Please contact Natasha if you'd like to present a pa
 
 Date | Speaker | Affiliation | Paper | Notes
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
-05/05/2021 | N/A | N/A | Research round table |   
+05/05/2021 | N/A | N/A | Research round table |   Come learn about ML + bio research underway in the Mila ecosystem. Everyone is welcome to present (5 min max). Research at any stage is welcome, from recently published work to half-baked ideas. Slides are welcome but not required.
 21/04/2021 | Guy Wolf | Mila, UdeM | Geometry-based data exploration |   
 07/04/2021 | Natasha Dudek | Mila, McGill | CRISPR genome editing tutorial | 
  --/12/2020 | N/A | N/A | No meetings because NeurIPS, exams, holidays | Check out the Ecology + ML session at the NeurIPS [AI for Earth Sciences Workshop](https://ai4earthscience.github.io/neurips-2020-workshop/) on Dec 12
