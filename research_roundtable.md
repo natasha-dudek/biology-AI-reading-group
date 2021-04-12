@@ -8,7 +8,7 @@ permalink: /research_roundtable/
 
 Come learn about ML + biology research underway in the Mila ecosystem and chat with people working at the intersection of the two fields! 
 
-Note: If you are actively looking for collaborators, datasets, etc. in one of the two fields, this is a great opportunity to see if anyone in the community has ideas. 
+Note: If you are actively looking for collaborators, datasets, etc. in either of the two fields, this is a great opportunity to see if anyone in the community has ideas. 
 
 How it works
 1. We will gather via Google Meet, as per usual
