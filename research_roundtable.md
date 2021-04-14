@@ -15,8 +15,8 @@ How it works
 2. Reading group members will briefly present their work at the intersection of ML + biology (presenters must sign up prior to the event, see below)
 3. After each presentation, there will be a brief Q&A discussion period
 
-****** Presenter slots are full ******
-Presenter instructions
+Presenter instructions</br> 
+** Presenter slots are full ** </br> 
 - Research at any stage is welcome, from recently published work to half-baked ideas
 - Presentations should not substantially exceed 5 minutes. There is no limit on how short they should be (e.g.: if you just want to put an idea out there)
 - Slides are welcome but not required
