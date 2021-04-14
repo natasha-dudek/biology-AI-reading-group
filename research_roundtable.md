@@ -14,9 +14,9 @@ How it works
 1. We will gather via Google Meet, as per usual
 2. Reading group members will briefly present their work at the intersection of ML + biology (presenters must sign up prior to the event, see below)
 3. After each presentation, there will be a brief Q&A discussion period
+4. Time allowing, at the end attendees who did not present are welcome to describe their work (very informal, a few sentences in length)
 
-Presenter instructions</br> 
-** Presenter slots are full ** </br> 
+Presenter instructions --- Note: presenter slots are full 
 - Research at any stage is welcome, from recently published work to half-baked ideas
 - Presentations should not substantially exceed 5 minutes. There is no limit on how short they should be (e.g.: if you just want to put an idea out there)
 - Slides are welcome but not required
