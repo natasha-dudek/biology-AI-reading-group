@@ -12,12 +12,13 @@ Note: If you are actively looking for collaborators, datasets, etc., this is a g
 
 How it works
 1. We will gather via Google Meet, as per usual
-2. Attendees are welcome, but not required, to briefly present what they work on (must be at the interface of ML + biology)
+2. Reading group members will briefly present their work at the intersection of ML + biology (presenters must sign up prior to the event, see below)
 3. After each presentation, there will be a brief Q&A discussion period
 
+****** Presenter slots are full ******
 Presenter instructions
 - Research at any stage is welcome, from recently published work to half-baked ideas
 - Presentations should not substantially exceed 5 minutes. There is no limit on how short they should be (e.g.: if you just want to put an idea out there)
 - Slides are welcome but not required
-- To ensure that timing of the event works out, please confirm your participation with Natasha Dudek (firstname @ lastname .org) by May 4th at the latest
+- To ensure that timing of the event works out, please confirm your participation with Natasha Dudek (firstname @ lastname .org)
 
