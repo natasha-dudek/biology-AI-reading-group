@@ -9,6 +9,7 @@ We're looking for speakers! Please contact Natasha if you'd like to present a pa
 
 Date | Speaker | Affiliation | Paper | Notes
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
+21/04/2021 | Karren Dai Yang, Adit Radhakrishnan, Louis Cammarata | MIT | Transport problems in biology: theoretical and applied insights |   
 05/05/2021 | N/A | N/A | Research round table |  [Details on how this will work](https://natasha-dudek.github.io/biology-AI-reading-group/research_roundtable)
 21/04/2021 | Guy Wolf | Mila, UdeM | Geometry-based data exploration |   
 07/04/2021 | Natasha Dudek | Mila, McGill | CRISPR genome editing tutorial | 
