@@ -9,8 +9,9 @@ We're looking for speakers! Please contact Natasha if you'd like to present a pa
 
 Date | Speaker | Affiliation | Paper | Notes
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
-02/06/2021 | Joseph Viviano | Mila | TBA |   
-21/05/2021 | Karren Dai Yang, Adit Radhakrishnan, Louis Cammarata | MIT | Transport problems in biology: theoretical and applied insights |   
+16/06/2021 | Karren Dai Yang, Adit Radhakrishnan, Louis Cammarata | Broad | Transport problems in biology: theoretical and applied insights |   
+02/06/2021 | Joseph Viviano | Mila | [Saliency is a Possible Red Herring When Diagnosing Poor Generalization](https://arxiv.org/abs/1910.00199) |  
+19/05/2021 | N/A | N/A | No meetings because NeurIPS abstract submission deadline |  
 05/05/2021 | N/A | N/A | Research round table |  [Details on how this will work](https://natasha-dudek.github.io/biology-AI-reading-group/research_roundtable)
 21/04/2021 | Guy Wolf | Mila, UdeM | Geometry-based data exploration |   
 07/04/2021 | Natasha Dudek | Mila, McGill | CRISPR genome editing tutorial | 
