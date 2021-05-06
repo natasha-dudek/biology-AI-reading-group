@@ -5,7 +5,7 @@ filename: schedule.md
 permalink: /schedule/
 --- 
 
-We're looking for speakers! Please contact Natasha if you'd like to present a paper.
+We're looking for speakers! Please contact Matt if you'd like to present a paper.
 
 Date | Speaker | Affiliation | Paper | Notes
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
