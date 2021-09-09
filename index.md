@@ -4,7 +4,7 @@ The Mila Biology + AI reading group discusses papers at the intersection of biol
 
 Our reading group is open to anyone working on a problem at the intersection of these fields, or who is interested in doing so. Expertise in both biology and machine learning is not necessary, although an interest in both is! We want to create a place where people in this space can get to know each other, and form potentially fruitful collaborations.
 
-Our scope does not include medical or neuroscience related papers (see: [Medical reading group](https://github.com/ieee8023/medical-reading-group) and [Neural-AI reading group](https://sites.google.com/view/neural-ai/home?authuser=0)).
+Our scope does not typically include medical or neuroscience related papers (see: [Medical reading group](https://github.com/ieee8023/medical-reading-group) and [Neural-AI reading group](https://sites.google.com/view/neural-ai/home?authuser=0)).
 
 ### When and how we meet
 
