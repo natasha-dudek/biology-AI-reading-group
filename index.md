@@ -8,7 +8,9 @@ Our scope does not include medical or neuroscience related papers (see: [Medical
 
 ### When and how we meet
 
-During Spring 2021 we will be meeting once every two weeks on Wednesdays from 4-5 pm via Google Meet. **Please be respectful to the speaker and the other attendees and arrive a couple of minutes early**, just as you would for an in-person presentation. Meetings will begin at 4 pm sharp.
+Due to the ongoing pandemic, we are continuing to meet via Google Meet for during Winter 2021.
+
+We will be meeting once every two weeks, usually from 4-5 pm. **Please be respectful to the speaker and the other attendees and arrive a couple of minutes early**, just as you would for an in-person presentation. Meetings will begin at 4 pm sharp.
 
 For specific dates please refer to the schedule.
 
