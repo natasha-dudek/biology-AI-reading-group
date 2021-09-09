@@ -9,7 +9,8 @@ We're looking for speakers! Please contact Matt if you'd like to present a paper
 
 Date | Speaker | Affiliation | Paper | Notes
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
-16/06/2021 | Karren Dai Yang, Adit Radhakrishnan, Louis Cammarata | Broad | Transport problems in biology: theoretical and applied insights |   
+16/09/2021 | Zhaocheng Zhu, Chence Shi and Zuobai Zhang | [TorchDrug](https://torchdrug.ai/about)
+16/06/2021 | Adit Radhakrishnan, Louis Cammarata | Broad | Transport problems in biology: theoretical and applied insights |   
 02/06/2021 | Joseph Viviano | Mila | [Saliency is a Possible Red Herring When Diagnosing Poor Generalization](https://arxiv.org/abs/1910.00199) |  
 19/05/2021 | N/A | N/A | No meetings because NeurIPS abstract submission deadline |  
 05/05/2021 | N/A | N/A | Research round table |  [Details on how this will work](https://natasha-dudek.github.io/biology-AI-reading-group/research_roundtable)
