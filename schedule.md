@@ -5,7 +5,7 @@ filename: schedule.md
 permalink: /schedule/
 --- 
 
-We're looking for speakers! Please contact Matt if you'd like to present a paper.
+We're looking for speakers! If you'd like to present a paper, please contact Matt Scicluna (FirstNameLastName at gmail dot com)
 
 Date | Speaker | Affiliation | Paper | Notes
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
