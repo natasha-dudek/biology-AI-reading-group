@@ -9,6 +9,8 @@ We're looking for speakers! If you'd like to present a paper, please contact Mat
 
 Date | Speaker | Affiliation | Paper | Notes
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
+
+27/10/2021 | Paul Bertin | Mila | What challenges do we face when designing recommendation systems to guide laboratory experiments? | [Suggested Reading](https://academic.oup.com/bioinformatics/article/34/13/i457/5045770)
 29/09/2021 | Dongjoon Lim | McGill University  | [LSTM based context-dependent model of sequence evolution](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7355264/)
 16/09/2021 | Zhaocheng Zhu, Chence Shi and Zuobai Zhang | Mila | [TorchDrug](https://torchdrug.ai/about)
 16/06/2021 | Adit Radhakrishnan, Louis Cammarata | Broad | Transport problems in biology: theoretical and applied insights |   
