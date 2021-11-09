@@ -9,7 +9,7 @@ We're looking for speakers! If you'd like to present a paper, please contact Mat
 
 Date | Speaker | Affiliation | Paper | Notes
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
-29/09/2021 | Dongjoon Lim | LSTM based context-dependent model of sequence evolution | McGill University | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7355264/)
+29/09/2021 | Dongjoon Lim | McGill University  | [LSTM based context-dependent model of sequence evolution](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7355264/)
 16/09/2021 | Zhaocheng Zhu, Chence Shi and Zuobai Zhang | Mila | [TorchDrug](https://torchdrug.ai/about)
 16/06/2021 | Adit Radhakrishnan, Louis Cammarata | Broad | Transport problems in biology: theoretical and applied insights |   
 02/06/2021 | Joseph Viviano | Mila | [Saliency is a Possible Red Herring When Diagnosing Poor Generalization](https://arxiv.org/abs/1910.00199) |  
