@@ -8,7 +8,7 @@ Our scope does not typically include medical or neuroscience related papers (see
 
 ### When and how we meet
 
-Due to the ongoing pandemic, we are continuing to meet via Google Meet during Winter 2021.
+Due to the ongoing pandemic, we are continuing to meet via Google Meet during ~Winter 2021~ Spring 2022.
 
 We will be meeting once every two weeks, usually from 4-5 pm. **Please be respectful to the speaker and the other attendees and arrive a couple of minutes early**, just as you would for an in-person presentation. Meetings will begin at 4 pm sharp.
 
