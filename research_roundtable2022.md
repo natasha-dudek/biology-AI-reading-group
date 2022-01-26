@@ -1,7 +1,7 @@
 ---
 title: "Research roundtable"
 theme: jekyll-theme-cayman
-permalink: /research_roundtable/
+permalink: /research_roundtable2022/
 --- 
 
 ## Research roundtable
@@ -16,9 +16,9 @@ How it works
 3. After each presentation, there will be a brief Q&A discussion period
 4. Time allowing, at the end attendees who did not present are welcome to describe their work (very informal, a few sentences in length)
 
-Presenter instructions --- Note: presenter slots are full 
+Presenter instructions
 - Research at any stage is welcome, from recently published work to half-baked ideas
 - Presentations should not substantially exceed 5 minutes. There is no limit on how short they should be (e.g.: if you just want to put an idea out there)
 - Slides are welcome but not required
-- To ensure that timing of the event works out, please confirm your participation with Natasha Dudek (firstname @ lastname .org)
+- To ensure that timing of the event works out, please confirm your participation with Matthew Scicluna (matt C lastname @ gmail.com)
 
