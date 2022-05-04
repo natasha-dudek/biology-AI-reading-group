@@ -9,8 +9,9 @@ We're looking for speakers! If you'd like to present a paper, please contact Mat
 
 Date | Speaker | Affiliation | Paper | Notes
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
-20/04/2022 | TBD | TBD | TBD | TBD
-06/04/2022 | TBD | TBD | TBD | TBD
+01/06/2022 | Egbert Castro | Yale University | TBD | TBD
+18/05/2022 | Ionelia Buzatu | Mila | Single-cell simulation and cell state control | [Suggested Reading 1](https://pubmed.ncbi.nlm.nih.gov/32871105/)
+06/04/2022 | Colleen Gillon | University of Toronto and Mila | Opening up the brain: An overview of an end-to-end open science neuroimaging research project | [The OpenScope project, an example of open data collection initiatives](https://alleninstitute.org/what-we-do/brain-science/research/mindscope-program/openscope/), [Learning from unexpected events in the neocortical microcircuit](https://www.biorxiv.org/content/10.1101/2021.01.15.426915v1)  | 
 23/03/2022 | N/A | N/A | Research round table |  [Details on how this will work](https://natasha-dudek.github.io/biology-AI-reading-group/research_roundtable2022)
 09/03/2022 | Tallulah Andrews | University of Western Ontario | The Liver Microenvironment in Health and Disease | [Suggested Reading 1](https://aasldpubs.onlinelibrary.wiley.com/doi/full/10.1002/hep4.1854#.YfFypVOIpfA), [Suggested Reading 2](https://www.nature.com/articles/nmeth.4236)
 23/02/2022 | Oren Krauss | Recursion Pharmaceuticals | Cellular Phenotyping using Deep Learning | [Rxrx1 dataset](https://www.rxrx.ai/rxrx1), [Suggested Reading](https://www.biorxiv.org/content/10.1101/2020.08.02.233064v2) 
