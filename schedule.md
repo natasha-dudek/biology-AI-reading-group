@@ -9,6 +9,7 @@ We're looking for speakers! If you'd like to present a paper, please contact Mat
 
 Date | Speaker | Affiliation | Paper | Notes
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
+15/06/2022 | David Hamelin | University of Montreal | TBD | TBD
 01/06/2022 | Egbert Castro | Yale University | TBD | TBD
 18/05/2022 | Ionelia Buzatu | Mila | Single-cell simulation and cell state control | [Suggested Reading 1](https://pubmed.ncbi.nlm.nih.gov/32871105/)
 06/04/2022 | Colleen Gillon | University of Toronto and Mila | Opening up the brain: An overview of an end-to-end open science neuroimaging research project | [The OpenScope project, an example of open data collection initiatives](https://alleninstitute.org/what-we-do/brain-science/research/mindscope-program/openscope/), [Learning from unexpected events in the neocortical microcircuit](https://www.biorxiv.org/content/10.1101/2021.01.15.426915v1)  | 
