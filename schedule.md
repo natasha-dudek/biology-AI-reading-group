@@ -9,7 +9,7 @@ We're looking for speakers! If you'd like to present a paper, please contact Mat
 
 Date | Speaker | Affiliation | Paper | Notes
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
-15/06/2022 | Assya Trofimov | TBD | TBD | TBD
+29/06/2022 | Assya Trofimov | TBD | TBD | TBD
 15/06/2022 | David Hamelin | University of Montreal | TBD | TBD
 01/06/2022 | Egbert Castro | Yale University | Guided Generative Protein Design using Regularized Transformers | [Suggested Reading 1](https://www.pnas.org/doi/10.1073/pnas.2016239118), [Suggested Reading 2](https://arxiv.org/abs/1610.02415)
 18/05/2022 | Ionelia Buzatu | Mila | Single-cell simulation and cell state control | [Suggested Reading 1](https://pubmed.ncbi.nlm.nih.gov/32871105/)
