@@ -9,8 +9,9 @@ We're looking for speakers! If you'd like to present a paper, please contact Mat
 
 Date | Speaker | Affiliation | Paper | Notes
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
+15/06/2022 | Assya Trofimov | TBD | TBD | TBD
 15/06/2022 | David Hamelin | University of Montreal | TBD | TBD
-01/06/2022 | Egbert Castro | Yale University | TBD | TBD
+01/06/2022 | Egbert Castro | Yale University | Guided Generative Protein Design using Regularized Transformers | [Suggested Reading 1](https://www.pnas.org/doi/10.1073/pnas.2016239118), [Suggested Reading 2](https://arxiv.org/abs/1610.02415)
 18/05/2022 | Ionelia Buzatu | Mila | Single-cell simulation and cell state control | [Suggested Reading 1](https://pubmed.ncbi.nlm.nih.gov/32871105/)
 06/04/2022 | Colleen Gillon | University of Toronto and Mila | Opening up the brain: An overview of an end-to-end open science neuroimaging research project | [The OpenScope project, an example of open data collection initiatives](https://alleninstitute.org/what-we-do/brain-science/research/mindscope-program/openscope/), [Learning from unexpected events in the neocortical microcircuit](https://www.biorxiv.org/content/10.1101/2021.01.15.426915v1)  | 
 23/03/2022 | N/A | N/A | Research round table |  [Details on how this will work](https://natasha-dudek.github.io/biology-AI-reading-group/research_roundtable2022)
