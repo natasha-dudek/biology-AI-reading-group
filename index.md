@@ -8,7 +8,7 @@ Our scope does not typically include medical or neuroscience related papers (see
 
 ### When and how we meet
 
-Due to the ongoing pandemic, we are continuing to meet via Zoom during Summer 2022.
+During Summer 2022, we are experimenting with a hybrid format. You can visit us in Auditorium 2 of 6650 Rue Saint-Urbain (the Mila building). Alternatively, you can watch the talk live via Blue Jeans (or Zoom).
 
 We will be meeting once every two weeks, usually from 3-4 pm. **Please be respectful to the speaker and the other attendees and arrive a couple of minutes early**, just as you would for an in-person presentation. Meetings will begin at 3 pm sharp.
 
