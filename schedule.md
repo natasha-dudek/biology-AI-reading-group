@@ -7,9 +7,9 @@ permalink: /schedule/
 
 We're looking for speakers! If you'd like to present a paper, please contact Matt Scicluna (FirstNameCLastName at gmail dot com). Don't forget the C in the middle!
 
-Date | Speaker | Affiliation | Talk Title | Suggested Readings
+Date | Speaker | Affiliation | Talk Title | Suggested Readings and Recording (if available)
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
-29/06/2022 | Assya Trofimov | University of Washington | T cell atlas: receptor sharing vs age, sex and disease | [The preprint](https://www.biorxiv.org/content/10.1101/2022.04.27.489747v1), [The TLT model preprint](https://arxiv.org/abs/1810.03442), [Immune repertoire review](https://pubmed.ncbi.nlm.nih.gov/25148022/)
+29/06/2022 | Assya Trofimov | University of Washington | T cell atlas: receptor sharing vs age, sex and disease | [The preprint](https://www.biorxiv.org/content/10.1101/2022.04.27.489747v1), [The TLT model preprint](https://arxiv.org/abs/1810.03442), [Immune repertoire review](https://pubmed.ncbi.nlm.nih.gov/25148022/), [Recording](https://bluejeans.com/s/QSFqlP9a8Ce)
 15/06/2022 | David Hamelin | University of Montreal | The HLA-dependent impact of emerging sars-cov-2 lineages on cellular immunity and antigenic drift | [Suggested Reading 1](https://www.cell.com/cell-systems/pdfExtended/S2405-4712(21)00381-1), [NetMHCPan Paper](https://pubmed.ncbi.nlm.nih.gov/32406916/)
 01/06/2022 | Egbert Castro | Yale University | Guided Generative Protein Design using Regularized Transformers | [Suggested Reading 1](https://www.pnas.org/doi/10.1073/pnas.2016239118), [Suggested Reading 2](https://arxiv.org/abs/1610.02415)
 18/05/2022 | Ionelia Buzatu | Mila | Single-cell simulation and cell state control | [Suggested Reading 1](https://pubmed.ncbi.nlm.nih.gov/32871105/)
