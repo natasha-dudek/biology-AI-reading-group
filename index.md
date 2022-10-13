@@ -8,9 +8,9 @@ Our scope does not typically include medical or neuroscience related papers (see
 
 ### When and how we meet
 
-During Summer 2022, we are experimenting with a hybrid format. You can visit us in Auditorium 2 of 6650 Rue Saint-Urbain (the Mila building). Alternatively, you can watch the talk live via Blue Jeans (or Zoom).
+During Fall 2022, we are remote, and are using Blue Jeans.
 
-We will be meeting once every two weeks, usually from 3-4 pm. **Please be respectful to the speaker and the other attendees and arrive a couple of minutes early**, just as you would for an in-person presentation. Meetings will begin at 3 pm sharp.
+We meet once every two weeks, usually from 3-4 pm. **Please be respectful to the speaker and the other attendees and arrive a couple of minutes early**, just as you would for an in-person presentation. Meetings will begin at 3 pm sharp.
 
 For specific dates please refer to the schedule.
 
@@ -20,7 +20,7 @@ Option A) A group member will present a paper from the literature (~20 min). Fol
 
 Option B) A speaker will present their own work to the group (length flexible, max. 50 minutes). Following the presentation there will be a discussion.
 
-**It is critical that all attendees read the paper before the meeting**. Both the presenter and attendees should come prepared with observations and comments about the paper for discussion.
+**It is a good idea that all attendees read the paper before the meeting**. Both the presenter and attendees should come prepared with observations and comments about the paper for discussion.
 
 ### Staying up to date 
 
