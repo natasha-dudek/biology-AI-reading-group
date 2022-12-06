@@ -30,5 +30,5 @@ Option B) A speaker will present their own work to the group (length flexible, m
 
 Matt Scicluna 
 
-Natasha Dudek
+Marc-Andre Legault
 
