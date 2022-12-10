@@ -9,8 +9,8 @@ We're looking for speakers! If you'd like to present a paper, please contact Mat
 
 Date | Speaker | Affiliation | Talk Title | Suggested Readings and Recording (if available)
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
-14/12/2022 | TBD | TBD | TBD | TBD
-30/11/2022 | TBD | TBD | TBD | TBD
+14/12/2022 | Srinivasan Sivanandan | insitro | Machine Learning enabled Pooled Optical Screening in Human Lung Cancer Cells | [Optical Pooled Screens in Human Cells](https://pubmed.ncbi.nlm.nih.gov/31626775/), [The phenotypic landscape of essential human genes](https://www.sciencedirect.com/science/article/pii/S0092867422013599)
+30/11/2022 | N/A | N/A | No meetings because NeurIPS |
 16/11/2022 | Jason Hartford | Mila | Causal inference with instrumental variables | [Recording](https://bluejeans.com/s/hRf5ccwb_Wm)
 02/11/2022 | Shadi Zabad | McGill University | Fast and Accurate Bayesian Polygenic Risk Modeling with Variational Inference | [Polygenic risk scores: from research tools to clinical instruments](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00742-5), [Modeling Linkage Disequilibrium Increases Accuracy of Polygenic Risk Scores](https://pubmed.ncbi.nlm.nih.gov/26430803/), [Course slides from Prof. Yue Li on Bayesian Polygenic Risk Scores](https://www.cs.mcgill.ca/~yueli/teaching/COMP565_Fall2021/comp565_syllabus.html), [Slides](https://docs.google.com/presentation/d/1QDS9oMsjYrGfoGGN2ZVqoXKwab3amRQsfomA4R1KE-4/edit?usp=sharing),
 29/06/2022 | Assya Trofimov | University of Washington | T cell atlas: receptor sharing vs age, sex and disease | [The preprint](https://www.biorxiv.org/content/10.1101/2022.04.27.489747v1), [The TLT model preprint](https://arxiv.org/abs/1810.03442), [Immune repertoire review](https://pubmed.ncbi.nlm.nih.gov/25148022/), [Recording](https://bluejeans.com/s/QSFqlP9a8Ce)
