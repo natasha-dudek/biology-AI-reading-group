@@ -9,6 +9,7 @@ We're looking for speakers! If you'd like to present a paper, please contact Mat
 
 Date | Speaker | Affiliation | Talk Title | Suggested Readings and Recording (if available)
 ------------ | ----------------------- | ----------------------- | --------------------------------------------------------------- | ------------------------------
+31/05/2023 | Zeev Russak | Infiniplex | Monitoring Cancer Patients Using Liquid Biopsy and High-Multiplex qPCR | [A Basic Guide to Real Time PCR in Microbial Diagnostics](https://www.frontiersin.org/articles/10.3389/fmicb.2017.00108), [Sensitivity, specificity, and accuracy of a liquid biopsy approach utilizing molecular amplification pools](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144209/), [UNAFold: software for nucleic acid folding and hybridization](https://pubmed.ncbi.nlm.nih.gov/18712296/) 
 14/12/2022 | Srinivasan Sivanandan | insitro | Machine Learning enabled Pooled Optical Screening in Human Lung Cancer Cells | [Optical Pooled Screens in Human Cells](https://pubmed.ncbi.nlm.nih.gov/31626775/), [The phenotypic landscape of essential human genes](https://www.sciencedirect.com/science/article/pii/S0092867422013599)
 30/11/2022 | N/A | N/A | No meetings because NeurIPS |
 16/11/2022 | Jason Hartford | Mila | Causal inference with instrumental variables | [Recording](https://bluejeans.com/s/hRf5ccwb_Wm)
